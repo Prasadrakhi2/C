@@ -1,0 +1,12 @@
+Here's the order of operator precedence in C, from highest to lowest:
+
+Parentheses: ()
+Postfix operators: ++, --
+Unary operators: +, -, !, ~, ++, --, (type)
+Multiplicative operators: *, /, %
+Additive operators: +, -
+Relational operators: <, >, <=, >=
+Equality operators: ==, !=
+Logical AND operator: &&
+Logical OR operator: ||
+Assignment operators: =, +=, -= ... and so on
